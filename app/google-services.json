@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "356914826348",
+    "project_id": "fredagsprojekt3",
+    "storage_bucket": "fredagsprojekt3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356914826348:android:a462ef4f1077fc70271c49",
+        "android_client_info": {
+          "package_name": "com.example.fredagsprojekt3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356914826348-t8uh8m7jpaebut5lvc3g91p9atv5qhi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fredagsprojekt3",
+            "certificate_hash": "1c49d534a378dbfebe4a8e4afcc6bbbf26f2173a"
+          }
+        },
+        {
+          "client_id": "356914826348-4tlq3vgk68gqppftb7fkbn70je6sii46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHm72XH5td40fWFTccUKEeGLQrjTGJx2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356914826348-4tlq3vgk68gqppftb7fkbn70je6sii46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

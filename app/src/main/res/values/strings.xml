@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FredagsProjekt3</string>
+    <string-array name="spinnerArray">
+        <item>Tenor Gif API (fungerar ej)</item>
+        <item>Sida med randomfärg knapp</item>
+        <item>Logga ut</item>
+    </string-array>
+</resources>
